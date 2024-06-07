@@ -1,5 +1,4 @@
-## This is a home-lab project intendeed to sharp linux and networking skills. Bash script will be written in order to automate security checks and to monitor the system.  
-## It will consist of different VMs and physical Raspberry Pi servers.  
+**This is a home-lab project intendeed to sharp linux and networking skills. Bash script will be written in order to automate security checks and to monitor the system. It will consist of different VMs and physical Raspberry Pi servers.  
 
 ### Server 1: Install Ubuntu Server on Raspberry Pi
 
