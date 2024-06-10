@@ -15,7 +15,7 @@ This is a home-lab project intendeed to sharp linux and networking skills. Bash 
     - Configure VPN server using the project [PiVPN](https://www.pivpn.io). This can be also installed using the [Wireguard script by Nyr](https://github.com/Nyr/wireguard-install) or by installing and configu      ring wireguard-tools. OpenVPN could be also used.  
 
 4. **Web Server Installation**
-    - I am using NGNIX thought LAMP would be an alternative.    
+    - I am using NGNIX though LAMP would be an alternative.    
    
 
 
